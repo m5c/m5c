@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a researcher in **Software Engineering Research**.  
+I'm a professor in **Software Engineering Research**.  
 My main interests are tools for RESTful Services, DevOps, Security Protocols, API Security, and all the empirical methodology needed to understand their effects on software engineers. That is: real, measurable effects on humans, and the software produced.
 
 You can download my most important articles, video tutorials and teaching material on my [professional website](https://m5c.github.io/).  
